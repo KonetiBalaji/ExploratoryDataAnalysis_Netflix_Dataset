@@ -8,8 +8,6 @@ This project involves exploratory data analysis (EDA) on the Netflix Movies & TV
 Netflix_EDA_Project/
 ├── dataset/
 │   └── netflix_titles.csv
-├── notebooks/
-│   └── exploratory_data_analysis.ipynb
 ├── images/
 │   ├── content_type_distribution.png
 │   ├── top_countries.png
